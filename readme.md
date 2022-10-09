@@ -12,7 +12,7 @@
 <p>
     Este foi um projeto para eu utilizar pela primeira vez o <strong>MongoDB</strong>.</p>
 <p>
-    Foi minha primeira experiencia com o MongoDB. Onde Faço um Crud Completo, o Front é bem básico feito com EJS apenas para testar o Crud.
+    Neste projeto eu faço um Crud Completo, o Front é bem básico feito com EJS apenas para testar o Crud.
 </p>
 <img 
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/crud-nodeJS-mongoDB/crud.gif"
